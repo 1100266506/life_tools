@@ -1,0 +1,3 @@
+['chipotle', 'mexican', 'cheap']
+['soondooboo', 'korean', 'cheap']
+['chueys', 'mexican', 'expensive']
