@@ -1,1 +1,4 @@
-This repository includes small programs I've written myself for a hodgepodge list of uses in my daily life
+The text file contains a list of restaurants, with each line containing a list with the name, cuisine type, and price.
+The python file contains the code allowing the user to give cuisine and price input which will then give an output of
+restaurants from the database that fit that requirement. Users can also update the restaurant database by adding additional
+restaurants. 
